@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HJ # the main title
+title: Hyeonjoon Park # the main title
 
 tagline: Hi, I am a  senior computer science student at University of Michigan. I am interested in combination of ML with finance. # it will display as the subtitle
 
@@ -30,7 +30,6 @@ github:
 
 twitter:
   username: phjoon1012 # change to your Twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
