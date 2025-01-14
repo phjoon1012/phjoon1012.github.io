@@ -7,9 +7,9 @@ order: 4
 
 Hello, I’m **Hyeonjoon Park**, a dedicated and results-driven **Software Engineer** with + 4 years of experience in designing, developing, and deploying scalable software solutions. My passion lies in leveraging technology to solve complex problems and deliver measurable impact.
 
-[Download CV](../_site/assets/CV.pdf)
+[Download CV](../assets/CV.pdf)
 <br/>
-[Download Resume](../_site/assets/CV.pdf)
+[Download Resume](../assets/CV.pdf)
 
 
 ---
